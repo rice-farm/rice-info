@@ -1,6 +1,7 @@
 {
-  "short_name": "RiceFarm Info",
-  "name": "View statistics for RiceFarm exchanges.",
+  "short_name": "RiceFarm",
+  "name": "RiceFarm Info",
+  "description": "View statistics for RiceFarm exchanges.",
   "icons": [
     {
       "src": "favicon.png",

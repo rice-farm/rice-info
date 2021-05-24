@@ -49,17 +49,17 @@ const theme = (darkMode, color) => ({
   divider: darkMode ? 'rgba(43, 43, 43, 0.435)' : 'rgba(43, 43, 43, 0.035)',
 
   //primary colors
-  primary1: darkMode ? '#489135' : '#6fb25e',
+  primary1: darkMode ? '#93eb7c' : '#186904',
   primary2: darkMode ? '#00B28A' : '#b2e1aa',
   primary3: darkMode ? '#00B28A' : '#b2e1aa',
   primary4: darkMode ? '#6bad70' : '#ddf6f2',
   primary5: darkMode ? '#6bad70' : '#ddf6f2',
 
   // color text
-  primaryText1: darkMode ? '#45ee6d' : '#6fb25e',
+  primaryText1: darkMode ? '#93eb7c' : '#186904',
 
   // secondary colors
-  secondary1: darkMode ? '#489135' : '#6fb25e',
+  secondary1: darkMode ? '#93eb7c' : '#186904',
   secondary2: darkMode ? '#0f2001' : '#F6DDE8',
   secondary3: darkMode ? '#0f2001' : '#FDEAF1',
 
@@ -70,7 +70,7 @@ const theme = (darkMode, color) => ({
   green1: '#6fb25e',
   yellow1: '#FFE270',
   yellow2: '#F3841E',
-  link: '#6fb25e',
+  link: '#43922e',
   blue: '#6fb25e',
 
   background: darkMode ? 'black' : `radial-gradient(50% 50% at 50% 50%, #6fb25e 30 0%, #fff 0%)`,

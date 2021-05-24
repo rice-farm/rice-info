@@ -68,8 +68,8 @@ const WarningWrapper = styled.div`
 
 const WarningBanner = styled.div`
   background-color: ${({ theme }) => theme.bg1};
+  color: ${({ theme }) => theme.primaryText1};
   padding: 1.5rem;
-  color: white;
   width: 100%;
   text-align: center;
   font-weight: 500;
@@ -115,9 +115,9 @@ function App() {
           </WarningWrapper>
         )}
         {globalData &&
-        Object.keys(globalData).length > 0 &&
-        globalChartData &&
-        Object.keys(globalChartData).length > 0 ? (
+          Object.keys(globalData).length > 0 &&
+          globalChartData &&
+          Object.keys(globalChartData).length > 0 ? (
           <BrowserRouter>
             <Switch>
               <Route

@@ -1,4 +1,4 @@
-# Pancake History
+# RiceFarm Info
 
 Check it out live: [https://ricefarm.info/](https://ricefarm.info/).
 
